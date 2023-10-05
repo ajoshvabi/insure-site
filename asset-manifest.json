@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/insure-site/static/css/main.6b3249f4.css",
+    "main.css": "/insure-site/static/css/main.229ec0a5.css",
     "main.js": "/insure-site/static/js/main.8958a98b.js",
     "static/js/787.78bf86da.chunk.js": "/insure-site/static/js/787.78bf86da.chunk.js",
     "static/media/abtbg.jpg": "/insure-site/static/media/abtbg.25633d8d6603df15c5c1.jpg",
@@ -9,12 +9,12 @@
     "static/media/about.jpg": "/insure-site/static/media/about.63c289b231eb66785852.jpg",
     "static/media/reason.jpg": "/insure-site/static/media/reason.84515815b82121e9e1dc.jpg",
     "index.html": "/insure-site/index.html",
-    "main.6b3249f4.css.map": "/insure-site/static/css/main.6b3249f4.css.map",
+    "main.229ec0a5.css.map": "/insure-site/static/css/main.229ec0a5.css.map",
     "main.8958a98b.js.map": "/insure-site/static/js/main.8958a98b.js.map",
     "787.78bf86da.chunk.js.map": "/insure-site/static/js/787.78bf86da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b3249f4.css",
+    "static/css/main.229ec0a5.css",
     "static/js/main.8958a98b.js"
   ]
 }
